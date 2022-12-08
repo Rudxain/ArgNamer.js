@@ -1,5 +1,3 @@
-'use strict'
-
 /**
 @template T
 @param {T} x
